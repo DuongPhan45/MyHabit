@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="piechart" ></div>
+    <div id="chartDiv2" style="width:50%; height:300px; margin:0 auto;"></div>
+    <script src="https://code.jscharting.com/2.9.0/jscharting.js"></script>
+    <script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+    <script>
+        
+        let myConfig = {
+            type: "ring",
+            title: {
+                text: "Donut Chart"
+            },
+            plot: {
+                //Use the "slice" attribute to adjust the size of the donut ring.
+            },
+            series: [
+                { values: [59] },
+                { values: [55] },
+                { values: [30] },
+                { values: [28] },
+                { values: [15] }
+            ]
+        }
+        // Render Method
+        zingchart.render({ id: 'piechart', data: myConfig, });
+       </script>
+</body>
+
+</html>
