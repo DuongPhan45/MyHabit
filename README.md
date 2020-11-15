@@ -1,6 +1,6 @@
 # 21Days
 
-A habit tracker web application that allows users to creat and update different habits.
+A habit tracker web application that allows users to create and update different habits.
 
 ## Introduction
 
