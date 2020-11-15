@@ -21,6 +21,7 @@ The total number of times required each day and number of tasks done are represe
 - Flask
 - Jinja2
 - SQLite
+- Python
 
 ### Front-end
 
