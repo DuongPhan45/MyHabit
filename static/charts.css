@@ -1,0 +1,59 @@
+.heading {
+    height: 25vh;
+    background-color: #98C9A3;
+}
+
+.logo {
+    position: absolute;
+    top: 8%;
+    right: 10%;
+    height: 20vh;
+}
+
+.title {
+    position: absolute;
+    font-family: 'Nova Oval', cursive;
+    font-size: 60px;
+    color: #EDEEC9;
+    margin-top: 1%;
+}
+
+.navbar {
+    top: 60%;
+}
+
+.nav-link {
+    color: #EDEEC9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.greeting {
+    margin: 2% 5%;
+    color: #5CA4A9;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.submit-btn {
+    font-family: 'Montserrat', sans-serif;
+    color: #EDEEC9;
+    background-color: #77BFA3;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-left: 25%;
+}
+
+.commit-box {
+    margin-left: 5%;
+    background-color: rgba(237, 238, 201, 0.4);
+    border-radius: 25px;
+}
+
+.form-control {
+    color: #5CA4A9;
+}
+
+label {
+    color: #5CA4A9;
+}

@@ -46,9 +46,8 @@ class Habit(db.Model):
 @app.route('/', methods=['GET', 'POST'])
 def index():
     form = HabitForm()
-
-    if request.method=="POST":
-    # if validate_on_submit():
+    # if request.method=="POST":
+    if validate_on_submit():
         # Add/update
         habit = form.habit.data
         frequency = form.frequency.data
