@@ -11,9 +11,9 @@ The total number of times required each day and number of tasks done are represe
 
 ## Views
 ### Adding a new Habit
-![image](https://user-images.githubusercontent.com/47710293/98179856-c9efd880-1ecd-11eb-8808-3b69badf13b5.png)
+![image](https://user-images.githubusercontent.com/47710293/103140494-0ca38500-46b5-11eb-802b-7ff6c7abfbe5.png)
 ### Update the charts to keep track of the habit
-![image](https://user-images.githubusercontent.com/47710293/98180003-1509eb80-1ece-11eb-8783-6ffd055b79e2.png)
+![image](https://user-images.githubusercontent.com/47710293/103140492-0ad9c180-46b5-11eb-890f-b7c8627835b7.png)
 
 ## Tech information
 ### Back-end
