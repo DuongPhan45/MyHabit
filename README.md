@@ -7,7 +7,6 @@ A habit tracker web application that allows users to create and update different
 - It has been found that individuals can turn a new behavior into a habitual one by repeating it for 21 days. However, forming a good habit is not always easy since people are distracted by a lot of thing and easily forget their goals.
 - Therefore, 21Days is dedicated to creating a place where users can choose to initiate their habit and keep track of them in their dashboard.
 The total number of times required each day and number of tasks done are represented.
-- You could find the link to the web at: http://duongphan7.digitalscholar.rochester.edu/habitTrack
 
 ## Views
 ### Adding a new Habit
